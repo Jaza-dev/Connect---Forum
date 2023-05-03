@@ -1,5 +1,7 @@
 # Connect---Forum
 
+Laravel project created using php and bootstrap.
+
 Fully completed features:
 
 - User login
